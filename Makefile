@@ -1,4 +1,4 @@
-plugin=IM
+plugin=TaskIntervalButton
 
 all:
 	@ echo "Build archive for plugin ${plugin} version=${version}"

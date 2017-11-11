@@ -36,12 +36,12 @@ class Plugin extends Base
 
     public function getPluginVersion()
     {
-        return '1.0.0';
+        return '0.9.0';
     }
 
     public function getPluginHomepage()
     {
-        return 'https://github.com/kanboard/plugin-myplugin';
+        return 'https://github.com/mrozigor/kanboard-add-time-interval-plugin';
     }
 }
 
