@@ -28,4 +28,4 @@ Note: Plugin folder is case-sensitive.
 Documentation
 -------------
 
-On task summary page, in the sidebar there is button "Add time interval" which adds 30 minutes to time actually spent on this task. You have to confirm this.
+On task summary page, in the sidebar there is "Add time interval" button, which adds 30 minutes to time actually spent on this task. Action needs to be confirmed.
