@@ -3,16 +3,24 @@ Task Interval Button
 
 Simple plugins which adds button to incrementally change time spent on task.
 
+
 Author
 ------
 
 - Igor Mroz
-- License MIT
+
+
+License
+-------
+
+WTFPLv2
+
 
 Requirements
 ------------
 
 - Kanboard >= 1.0.35
+
 
 Installation
 ------------
@@ -24,6 +32,7 @@ You have the choice between 3 methods:
 3. Clone this repository into the folder `plugins/IM`
 
 Note: Plugin folder is case-sensitive.
+
 
 Documentation
 -------------
